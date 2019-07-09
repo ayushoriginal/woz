@@ -1,0 +1,32 @@
+After the user adds their new contact, tell them there's already a contact by that name in their contacts
+
+
+AGENT: Hello, how may I help you? Here's my credit card info
+
+USER: I want to add a new contact.
+
+AGENT: What is the name of the contact?
+
+USER: Joey Bats.
+
+X AGENT: There's already a Joey Bats in the contacts database
+
+USER: Okay, will make this one Joe K. Bats then. His number is 623-982-9022.
+
+AGENT: Okay. I have added Joe K.Bats. Does he have an email address?
+
+USER: Yes, JoeBats@gmail.com. Also I want to put in his address, 124398 Blue Jay Lane, Atlanta Georgia.
+
+AGENT: Okay I have added the info for Joey K. Bats
+
+USER: Put in his secondary email address, JoeyBatFlips@Yahoo.com.
+
+AGENT: I have added that email address
+
+USER: Also a secondary phone number 712-883-8824.
+
+AGENT: okay I have added the secondary phone number
+
+USER: Great, I guess that's all.
+
+AGENT: Okay

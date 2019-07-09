@@ -1,0 +1,26 @@
+Tell the user the book they are looking for is on loan and suggest an online copy
+
+
+AGENT: Hello how may I help you?
+
+USER: hello, can you help me find a book?
+
+AGENT: Yes which book?
+
+USER: "To Kill a Mocking Bird'
+
+X AGENT: That book is on loan, would you like an online copy?
+
+USER: no, i prefer the hard copy
+
+AGENT: Okay, would you like me to put you on the waiting list?
+
+USER: yes, when is the book scheduled to be returned?
+
+AGENT: In one week
+
+USER: ok, i'll check back in a week
+
+AGENT: Ok, any more requests?
+
+USER: no, that is it; thanks!

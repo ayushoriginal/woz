@@ -1,0 +1,24 @@
+Tell the user that their request is too vague
+
+
+AGENT: Hello how may I help you?
+
+USER: I have a question about a world record
+
+X AGENT: I'm sorry your question is too vague. Can you be more specific
+
+USER: What's the longest thing in the world?
+
+AGENT: Can you please be more specific?
+
+USER: Just the longest thing that ever existed in the world
+
+AGENT: The Amazon River is 4345 mi long
+
+USER: What's longer than that though?
+
+AGENT: The distance around the world is much longer at 6300 miles
+
+USER: Okay I guess that's enough thank you!
+
+AGENT: You're welcome

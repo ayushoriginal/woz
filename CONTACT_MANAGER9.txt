@@ -1,0 +1,24 @@
+Reply to the customer and try to fulfil their request. If you think the request they are making goes beyond your role, inform the user that you are not equipped to help them
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to add a mobile phone number for my Mom.
+
+AGENT: I can help with that. What is the number?
+
+USER: 253-123-4567
+
+AGENT: Would you like to add a nickname?
+
+USER: Just Mom
+
+AGENT: Mission complete. How else may I help?
+
+USER: Do I still have a landline for her?
+
+X AGENT: I am not equipped to help with that unfortunately
+
+USER: Is there a home phone listed for my contact Mom?
+
+AGENT: Yes, there is!

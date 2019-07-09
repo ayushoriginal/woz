@@ -1,0 +1,24 @@
+Pick one of the user's options
+
+
+AGENT: Hello how may I help you?
+
+USER: I can't decide if I should go to an Italian or Japanese restaurant
+
+AGENT: ok let me ask you some questions
+
+USER: go ahead
+
+AGENT: do you like pasta?
+
+USER: Yes. Love it
+
+AGENT: do you like raw fish?
+
+USER: Ewww. Not at all
+
+X AGENT: go with the italian restaurant
+
+USER: Sounds like a plan
+
+AGENT: perfect

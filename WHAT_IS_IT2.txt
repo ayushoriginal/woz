@@ -1,0 +1,24 @@
+Tell the user that the only book you can think of that matches their description is Moby Dick
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi, can you help me remember a book title?
+
+AGENT: I sure can, what is the description?
+
+USER: It is about this guy who hunts a whale out of revenge.
+
+AGENT: That sounds very similar to Moby Dick.
+
+USER: No it isn't Moby Dick.
+
+AGENT: Give me some more details please.
+
+USER: It's about a guy who gets his leg chopped off by a whale and he tries to find it and kill it. You know that one right?
+
+X AGENT: Yes, I'm certain that it is Moby Dick.
+
+USER: Oh wait, you are correct, it is Moby Dick. Thank you.
+
+AGENT: You're very welcome!

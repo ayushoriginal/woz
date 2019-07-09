@@ -1,0 +1,24 @@
+Tell the user you can only calculate the times in different time zones, not provide information on how they work
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi there, could you explain to me how time zones work? I don't really understand it
+
+X AGENT: Hey! I am only able to calculate times in diffferent tome zones.
+
+USER: Oh, so you can't explain how they work, you can only find out local times?
+
+AGENT: Correct
+
+USER: Alright, could you tell me what time it is in Los Angeles now?
+
+AGENT: It is currently 1:25am in Los Angeles
+
+USER: Great! And do you know if Sacramento is in the same time zone?
+
+AGENT: It is indeed
+
+USER: Alright, thanks for the info
+
+AGENT: Happy to help!

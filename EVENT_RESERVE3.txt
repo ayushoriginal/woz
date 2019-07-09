@@ -1,0 +1,24 @@
+Tell the user that it will be expensive to fulfil their request, but that it can be done.
+
+
+AGENT: Hello how may I help you?
+
+USER: I would like to make circus tent reservations for my son's birthday party.
+
+AGENT: What day is your son's birthday party?
+
+USER: It will be next friday, the 11th
+
+AGENT: What is the address where we will be setting the circus tent up?
+
+USER: Oh it's 1234 NoFunnyBuisness Lane money for the tickets is no problem.
+
+X AGENT: I am able to get you a circus tent but I do want to warn you that it is going to be very expensive? I'm glad money is no object
+
+USER: Money is absolutely no problem
+
+AGENT: Okay I will be needing a a $2,500 deposit and the balance of $4,000 the day before we set up the tent
+
+USER: Just let me know the price, but I must warn you I am very Wealthy and I even own a- OH MY LORD ARE YOU KIDDING ME!?!?! FOR A CIRCUS!?!?! I LOVE MY SON BUT NOT THAT MUCH!
+
+AGENT: So I take it you will not be making a deposit now

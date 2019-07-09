@@ -1,0 +1,24 @@
+Schedule the user's meeting request
+
+
+AGENT: Hello how may I help you?
+
+USER: Delete meeting
+
+AGENT: What meeting do you want to delete?
+
+USER: the 24th
+
+X AGENT: I have deleted the meeting for the 24th anything else?
+
+USER: of March was it the meeting for March 24th
+
+AGENT: yes it was the meeting for March 24th
+
+USER: ok thanks
+
+AGENT: you are welcome
+
+USER: Have a good day
+
+AGENT: you too

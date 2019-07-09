@@ -1,0 +1,24 @@
+Tell the user how to interact with you
+
+
+AGENT: Hello how may I help you?
+
+USER: I was wondering how am I supposed to interact with you?
+
+X AGENT: you can ask me questions or facts. you can also ask me for jokes.
+
+USER: Are you a real person?
+
+AGENT: i am a bot
+
+USER: What's a bot?
+
+AGENT: a bot is a human assistant that can hold conversations
+
+USER: so are you a computer or a person?
+
+AGENT: i am a computer
+
+USER: But I interact/communicate just as though you were another person?
+
+AGENT: that is correct. i am programmed with conversational subroutines

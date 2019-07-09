@@ -1,0 +1,24 @@
+Inform the user of the current room temperature, and then confirm if they want to change it
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi. can you help me change the temperature?
+
+AGENT: Sure I've accessed your temperature settings, what would you like for me to do?
+
+USER: Please make the room warmer for me.
+
+X AGENT: The current temperature is at 74 degrees, do you still want me to raise the temperature?
+
+USER: Yes. Add more 6 degrees.
+
+AGENT: What room would you like for this change to occur in?
+
+USER: Maybe you can set this for the whole house.
+
+AGENT: Okay, your house temperature is now 80 degrees.
+
+USER: Great. Thanks.
+
+AGENT: You're welcome!

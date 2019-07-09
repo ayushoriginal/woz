@@ -1,0 +1,24 @@
+Tell the user that there are no plays happening at the George F theatre until 7:30, but that there is a improv class being taught there from 2-4pm. If the user asks, tell them you don't know if the workshop is open to the public or free
+
+
+AGENT: Hello how may I help you? hello
+
+USER: Could you find something out about the George F theatre?
+
+AGENT: sure, what do you want to know about george f theatre?
+
+USER: I was looking for something to do this afternoon. Do they have anything going on around 3 PM?
+
+X AGENT: there will be an improv class to be taught from 2-4pm
+
+USER: That sounds interesting. Can anyone attend?
+
+AGENT: yes of course, you can attend
+
+USER: Awesome. How much will it cost?
+
+AGENT: regarding the payment, i have no information regarding that
+
+USER: Alright. I will give them a call to find out. Thank you for your help!
+
+AGENT: ok sure bye

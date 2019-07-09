@@ -1,0 +1,24 @@
+inform the user that one of the ingredients they are asking for is unavailable
+
+
+AGENT: Hello how may I help you?
+
+USER: I need placing an order for a pizza need help*
+
+AGENT: Certainly, what would you like to add to your order?
+
+USER: I want a pizza with mushroom, pepperoni, and bacon toppings
+
+X AGENT: Unfortunately, this location is out of the bacon topping you requested. Would there be a different topping you'd like to replace it with?
+
+USER: How about pineapple
+
+AGENT: That topping is available. I've added a pizza with mushroom, pepperoni, and pineapple to your order. What size would you like?
+
+USER: Medium
+
+AGENT: Alright, updated. Would you like to add more to your order?
+
+USER: That's all, thanks
+
+AGENT: Alright, your total is 14.99. Your pizza will be ready for pickup in approx. 20 mins.

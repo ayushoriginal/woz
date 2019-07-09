@@ -1,0 +1,24 @@
+Fulfil the user's request, but ask if they would like to change the name for their alarm
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with an alarm
+
+AGENT: i can help
+
+USER: you see the alarm on Friday at 3?
+
+AGENT: yes
+
+USER: i mean the Monday alarm at 3
+
+AGENT: yes
+
+USER: move it to 4 PM on Friday
+
+X AGENT: done. would you like to name the alarm
+
+USER: name it Baking
+
+AGENT: done

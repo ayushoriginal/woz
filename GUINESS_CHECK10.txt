@@ -1,0 +1,24 @@
+Ask the user to specify if they mean the biggest individual snake or the biggest type of snake
+
+
+AGENT: Hello how may I help you?
+
+USER: What was the biggest snake ever?
+
+X AGENT: Do you mean biggest individual snake or biggest type of snake?
+
+USER: individual
+
+AGENT: 125 ft long
+
+USER: What was the snake?
+
+AGENT: Anaconda
+
+USER: Thanks bot.
+
+AGENT: No problem, anything else I can help with?
+
+USER: No. that will be it.
+
+AGENT: Have a nice day

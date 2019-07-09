@@ -1,0 +1,24 @@
+Tell the user that the 9:00 meeting has been cancelled
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you tell me where my 9:00 meeting will be held?
+
+X AGENT: It appears the 9:00 am meeting has been cancelled.
+
+USER: What? How come you did not send me a notification about this?
+
+AGENT: The notification setting for cancelled meetings is currently disabled.
+
+USER: Well, can you turn it back on, please?
+
+AGENT: Yes, notifications for cancelled meeting is now on. Is there anything else I can do for you?
+
+USER: Are any of my other meetings cancelled, too?
+
+AGENT: No other meetings have been cancelled.
+
+USER: Thanks for the info
+
+AGENT: Your welcome. Have a great day.

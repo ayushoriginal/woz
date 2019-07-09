@@ -1,0 +1,24 @@
+Let the user know that the request they have asked for is too complicated to help with
+
+
+AGENT: Hello how may I help you? Hello
+
+USER: i need help with a website
+
+AGENT: Sure, what can I assist with?
+
+USER: i need help designing a website
+
+X AGENT: I apologize, but that is too complicated for me to assist with
+
+USER: do you know where i can go for help?
+
+AGENT: I would contact a tech support/website design company
+
+USER: good idea
+
+AGENT: They should be able to help
+
+USER: sounds like a plan
+
+AGENT: Have a great day

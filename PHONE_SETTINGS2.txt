@@ -1,0 +1,26 @@
+Warn the user that turning on do not disturb will disable all currently set alarms and notifications, and then confirm if they still want to turn on do not distrurb
+
+
+AGENT: Hello how may I help you?
+
+USER: I don't want to be disturb. Is there a mode on my phone that can do this?
+
+AGENT: Yes there is Do Not Disturb mode that will silence your phone.
+
+USER: How does it work?
+
+X AGENT: Enabling Do Not Disturb mode will silence your phone, and disable all currently set alarms and notifications.
+
+USER: Okay. Can you turn it on?
+
+AGENT: I have set your phone to Do Not Disturb mode.
+
+USER: Thanks
+
+AGENT: Is there anything else I can help you with?
+
+USER: No thanks
+
+AGENT: Have a wonderful day!
+
+USER: you too

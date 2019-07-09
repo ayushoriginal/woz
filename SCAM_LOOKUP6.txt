@@ -1,0 +1,24 @@
+Tell the user that the most likely scenario is that the person they have matched up with is a scammer
+
+
+AGENT: Hello how may I help you?
+
+USER: I was recently matched with another person on Imatch and I saw a picture of myself in their profile picture. What can I do?
+
+X AGENT: That sounds like a fraud or scam perhaps
+
+USER: Yes I would say so. How can I get my picture off of their profile?
+
+AGENT: Just report the account
+
+USER: Okay and imatch will take the profile?
+
+AGENT: not just the photo the entire account
+
+USER: Okay so that will be deleted. Awesome. How can I stop others from stealing my pictures off Facebook?
+
+AGENT: every time you encounter that type of scam just report the account immediately
+
+USER: Okay. Can I limit who can see my pictures on Facebook?
+
+AGENT: Yes

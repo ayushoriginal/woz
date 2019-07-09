@@ -1,0 +1,24 @@
+Tell the user that the people calling them are scammers
+
+
+AGENT: Hello how may I help you?
+
+USER: I'm haveing a problem with some phone calls.
+
+AGENT: WHat kind of problem are you having? Technical or otherwise
+
+USER: I keep getting phone calls from someone saying they work for Microsoft tech support.
+
+AGENT: What are the contents of these calls?
+
+USER: they want to know my account information.
+
+AGENT: Do you have the number these calls are coming from?
+
+USER: It is an unknown number.
+
+X AGENT: This is not a call from Microsoft Tech Support. We will never ask for your confidential information and would never block our number. I would advise against answering again.
+
+USER: Okay, thank you!
+
+AGENT: You're welcome. Have a nice day!

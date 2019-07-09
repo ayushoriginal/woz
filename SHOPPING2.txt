@@ -1,0 +1,24 @@
+Inform the user that the store does not give refunds or accept returned goods
+
+
+AGENT: Hello how may I help you?
+
+USER: can you help me with an order
+
+AGENT: What order do you need help with
+
+USER: i ordered a defective bicycle helment i need to return it
+
+AGENT: Where did you order the defective helment from?
+
+USER: a sporting good website
+
+AGENT: Yes I need to know which one, and then I can help you.
+
+USER: dicks, i need to return it
+
+X AGENT: Dick's doesn't accept returns of any kind. I'm sorry.
+
+USER: i need to return it
+
+AGENT: No returns are accepted. You can't return it.

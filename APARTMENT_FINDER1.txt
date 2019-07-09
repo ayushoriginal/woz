@@ -1,0 +1,24 @@
+Offer the user three two bedroom apartments in the downtown area
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help finding an apartment
+
+AGENT: Location?
+
+USER: Portland, OR
+
+X AGENT: I see three two bedroom apartment available in the downtown area.
+
+USER: Perfect, that's exactly what I was hoping for. How much is rent?
+
+AGENT: There's one in Old Town for $1450, and the other two are both in The Pearl District. One is $1600 and the other $1900.
+
+USER: Can you send me pictures of the one in Old Town?
+
+AGENT: Sure, I'll send them to your email now.
+
+USER: Thanks a lot bot
+
+AGENT: Anything else you need today?

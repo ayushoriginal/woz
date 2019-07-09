@@ -1,0 +1,24 @@
+Tell the user that the McDonalds won't be open for another three months
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you tell me if the Thomas St McDonald's is open yet?
+
+X AGENT: That McDonalds is still under construction. It is expected to be open in three months
+
+USER: Oh. Is there an open one close to there?
+
+AGENT: Yes, there is a McDonalds 2.5 miles from the that location, on 12th and Main
+
+USER: Well, ok. Do you have hours for that location?
+
+AGENT: They are open 24 hours a day
+
+USER: That works for me.
+
+AGENT: Is there anything else I can do to help you today?
+
+USER: No, you've been great bot. Thanks.
+
+AGENT: Have a great day

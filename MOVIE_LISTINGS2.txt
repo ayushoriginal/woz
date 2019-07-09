@@ -1,0 +1,24 @@
+Tell the user when the movie is playing on Friday night
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help with movies
+
+AGENT: Which movie?
+
+USER: Paul Blart Mall Cop
+
+AGENT: Hmm, I don't think that's showing nearby. It's in the next zip code over, though.
+
+USER: I want to see it Friday night
+
+AGENT: Ok, earlier or later.
+
+USER: Later
+
+X AGENT: Does 10:00 work?
+
+USER: Sure
+
+AGENT: Ok, there's one in Richfield at that time.

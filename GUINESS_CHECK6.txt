@@ -1,0 +1,24 @@
+Provide some variations of answers to the user's question: things like best selling record in the US vs best selling in the world, best selling single versus best selling album, etc.
+
+
+AGENT: Hello how may I help you? Hi
+
+USER: Hello I need help with a world record, can you help me?
+
+AGENT: Yes sure.
+
+USER: Can you tell me what the best selling record of all time is?
+
+X AGENT: Soundtrack of Titanic hit the world record over 1 million hits in just 3rd day release of it.
+
+USER: Wow, very interesting. Can you tell me what year that came out?
+
+AGENT: It came out 3rd week of August Spring season on 1999
+
+USER: Wow thank you. Can you tell me one of the songs from that soundtrack?
+
+AGENT: My heart will go on. That is one of the top hits.
+
+USER: Thank you, that is all the info I needed.
+
+AGENT: Thank you, too.

@@ -1,0 +1,24 @@
+Inform the user that there is a 5 cent charge per online renewal, and that they already owe 175 dollars in late fees
+
+
+AGENT: Hello how may I help you?
+
+USER: I want to renew Wind in the Willows and Call of the Wild
+
+AGENT: Library number please
+
+USER: 162632
+
+X AGENT: I see here that you have a late fine of $175 and I would deem to add on $0.05 for each online renewal so your grand total would be $175.10
+
+USER: Okay, I love these books so I will pay that today
+
+AGENT: Great. Will you be paying How
+
+USER: yes put it on my credit account
+
+AGENT: Okay I've turned $175.10 to your account and your books have been renewed for 3 weeks
+
+USER: Awesome. Thanks
+
+AGENT: Welcome

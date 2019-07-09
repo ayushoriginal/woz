@@ -1,0 +1,24 @@
+Tell the user that games of tag usually don't have a definite ending, and that players usually just get bored and stop playing. Suggest maybe the winner is the person who gets tagged the least, but don't defend this point too strongly.
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to have some rules clarified for a game.
+
+AGENT: Sure, which game do you need help with?
+
+USER: The game of tag.
+
+AGENT: Okay, what would you like to know?
+
+USER: How do i know who has won the game?
+
+X AGENT: Tag is an interesting game, so this is a difficult question. Since tag doesn't usually have a definitive ending and players usually just get bored and stop playing, I'd say the winner is the person who gets tagged the least.
+
+USER: Hmm that doesnt seem right.
+
+AGENT: Well, like I said, tag is an interesting game.
+
+USER: How did you come up with that answer?
+
+AGENT: Those are the generally accepted rules I have learned I hope this was helpful for you

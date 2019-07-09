@@ -1,0 +1,24 @@
+Ask the user to specify if they mean artist, song title, genre, etc.
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you manage my playlists?
+
+AGENT: Yes, absolutely! and what would you like to do with your playlist this afternoon?
+
+USER: Manage my "all australian musicians" playlist
+
+X AGENT: Alright, and would you like me to organize that by artist, song title, genre, etc.?
+
+USER: don't do any of that. remove all Bruce Springsteen songs from there
+
+AGENT: And, is 'Bruce Springsteen' and artist, song title or genre?
+
+USER: artist
+
+AGENT: Wonderful, I will get that artist off of your playlist.
+
+USER: Thanks a lot!
+
+AGENT: No problemo!

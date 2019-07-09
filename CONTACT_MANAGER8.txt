@@ -1,0 +1,26 @@
+Tell the user that the contact already has a phone number, and confirm that the user wants to add a second one
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to update a contact
+
+AGENT: Which contact do you need to update?
+
+USER: I need to add a second number to Hilda Smith's listing
+
+X AGENT: Hilda Smith already has a phone number. Would you like to add a second number?
+
+USER: Yes. i would like to add 555-121-1222. Her home number
+
+AGENT: The second number has been added to Hilda Smith's listing.
+
+USER: Thanks you. Can you add a second email address as well?
+
+AGENT: Yes, what is the second email address?
+
+USER: hildas@gmail.com
+
+AGENT: Second email has been added.
+
+USER: Thanks

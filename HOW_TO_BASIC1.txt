@@ -1,0 +1,24 @@
+Inform the user that they've made an impossible request
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to build a time machine can you help me
+
+X AGENT: Unfortunately, I cannot help you with building a time machine. That is an impossible request.
+
+USER: Sure we can. pull some blue prints for the flux capacitor
+
+AGENT: I cannot help you with building a time machine.
+
+USER: Hmmm...;Can you search the web
+
+AGENT: That is an impossible request. I am a bot designed to provide instructions for basic tasks. This is an impossible task.
+
+USER: No Doc came to me last night he said we can do it
+
+AGENT: I do not understand. I am a bot. I cannot help you build a time machine.
+
+USER: We have to go to 1985
+
+AGENT: I do not know how to go to 1985. I'm sorry that I cannot help you.

@@ -1,0 +1,24 @@
+Tell the user that most ski hills will be closed next weekend
+
+
+AGENT: Hello how may I help you?
+
+USER: I'm looking to check the weather next weekend
+
+AGENT: Checking. Where is your current locationj?
+
+USER: I'll be on a ski trip out in Norway
+
+X AGENT: based on your current location, all ski hills near your area are closed next weekend.
+
+USER: Even in Norway?
+
+AGENT: Checking Yes
+
+USER: Oh no. I've made a huge mistake
+
+AGENT: Do you want to change your plans?
+
+USER: I think it's too late!
+
+AGENT: Okay. Glad to be of service.

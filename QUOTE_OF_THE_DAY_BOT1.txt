@@ -1,0 +1,24 @@
+Offer the user this quote from Albert Einstein: 'Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods. ' If the user doesn't like this one, look for some more.
+
+
+AGENT: Hello how may I help you?
+
+USER: I've been down in the dumps lately, can you give me a quote to help cheer me up?
+
+X AGENT: Hope this quote from Albert Einstein helps: 'Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods'.
+
+USER: That helped, but only a little, could you give another one to me about laughter from a celebrity?
+
+AGENT: Here is a quote from Ellen Degeneres. "Live. Laugh. Love harder."
+
+USER: Maybe just one more quote, i'm almost there.
+
+AGENT: "A good laugh heals alot of hurt" - Justin Bieber
+
+USER: Greta! That made my day, thank you very much for providing me those quotes! Great!
+
+AGENT: No problem, anytime. Have a nice day.
+
+USER: Thank you, you too
+
+AGENT: Take care for now. Remember I am always here when you need quotes.

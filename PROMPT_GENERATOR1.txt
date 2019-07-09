@@ -1,0 +1,24 @@
+Suggest a show about friends who hang out and complain about stuff with eachother.
+
+
+AGENT: Hello how may I help you?
+
+USER: Hello. I need some help with a prompt
+
+AGENT: go ahead
+
+USER: Do you have any suggested prompts for a TV show idea?
+
+X AGENT: how about a show about friends who hang out and complain stuff with each other
+
+USER: That sounds like "Friends" or "Seinfield." It has been done a lot. Any other ideas?
+
+AGENT: no
+
+USER: You're a creative prompts bot. That is all you have?
+
+AGENT: sorry im still working to improve
+
+USER: Okay. I will try to think of some myself. Thanks anyway
+
+AGENT: glad to help

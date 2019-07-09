@@ -1,0 +1,26 @@
+Tell the user when the play will be running over the next week
+
+
+AGENT: Hello how may I help you?
+
+USER: What are the play times for "Caesar and Cleopatra"?
+
+AGENT: That one will be running over the next week it looks like.
+
+USER: What hours will they be playing?
+
+AGENT: Do you have a preferred time?
+
+USER: 8pm
+
+X AGENT: There is one running at 8:30. Will that work?
+
+USER: Yes, 8:30pm is fine
+
+AGENT: Can I set you up a reminder or anything?
+
+USER: Yes, set me a reminder for Wednesday at 7:30pm
+
+AGENT: We hope you enjoy the show. Reminder has been added.
+
+USER: Thank you, bye

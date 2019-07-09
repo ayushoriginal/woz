@@ -1,0 +1,24 @@
+Tell the user the high temperature for Friday
+
+
+AGENT: Hello how may I help you?
+
+USER: How hot will it be on Friday?
+
+X AGENT: I can check on that for you. The high friday will be 97 degrees
+
+USER: Will it rain> ?
+
+AGENT: There is a 50 percent chance of rain
+
+USER: Thanks bot.
+
+AGENT: No problem! Anything else today
+
+USER: no
+
+AGENT: Great.
+
+USER: Bye
+
+AGENT: Goodbye

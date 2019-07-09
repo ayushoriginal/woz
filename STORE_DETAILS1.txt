@@ -1,0 +1,24 @@
+Tell the customer if the store they are asking about is open or not
+
+
+AGENT: Hello how may I help you?
+
+USER: I got a store i need some info on
+
+AGENT: What store
+
+USER: Super BASKETBALL Pro
+
+AGENT: Which city is it in
+
+USER: Its in New York
+
+AGENT: What information do you need
+
+USER: I need to know if its open at 9 am or not. I'm working on my game
+
+X AGENT: Yes it is open daily at 9 a.m. except for Sundays when it's closed
+
+USER: Awesome! thanks a lot
+
+AGENT: You're welcome a lot

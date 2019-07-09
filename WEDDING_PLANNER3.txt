@@ -1,0 +1,24 @@
+Tell the user that they are not obligate to invite children to their wedding, but that they may want to consider an adults only ceremony followed by a full family reception.
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help planning a wedding
+
+AGENT: How can I help you with your wedding planning needs?
+
+USER: Am I obligated to have children at my wedding?
+
+AGENT: it is your wedding and you can invite whoever you want
+
+USER: I'm just worried that parents with kids will get offended.
+
+X AGENT: If you do not want children attending the ceremony, consider including them in a full family reception after the ceremony
+
+USER: That sounds like a great idea
+
+AGENT: Is there anything else I can help you with today?
+
+USER: That is it
+
+AGENT: Have a great day!

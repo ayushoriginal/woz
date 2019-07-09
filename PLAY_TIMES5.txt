@@ -1,0 +1,24 @@
+Tell the user there are three plays playing at the time they requested: Julius Caesar, Hamlet, and Pygmalion
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you tell me about shows during a theater festival?
+
+AGENT: Sure. What do you want to know?
+
+USER: Are there any shows on July 15th at 9:00?
+
+X AGENT: There are three shows playing at that time: Julius Caesar, Hamlet, Pygmalion.
+
+USER: all at 9? How much are tickets to Pygmalion?
+
+AGENT: Yes. They are all at 9:00. Tickets are $45 each to Pygmalion.
+
+USER: Wow that is pricey! are all the tickets the same price?
+
+AGENT: No, it is $40 for Julius Caesar and $50 for Hamlet.
+
+USER: ok thanks
+
+AGENT: You're welcome!

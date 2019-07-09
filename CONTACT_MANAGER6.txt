@@ -1,0 +1,24 @@
+once the user changes the phone number, ask them if they'd also like to change the email address
+
+
+AGENT: Hello how may I help you?
+
+USER: Could you help with my contacts.
+
+AGENT: Yes I can
+
+USER: I would like to change a number.
+
+AGENT: Which one?
+
+USER: Rick Sanchez
+
+AGENT: What do you want to change the number to?
+
+USER: 231 456 7890
+
+X AGENT: I've done that. Do you also want to change the email?
+
+USER: yes
+
+AGENT: to what?

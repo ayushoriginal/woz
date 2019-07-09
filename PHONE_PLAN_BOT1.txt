@@ -1,0 +1,24 @@
+Offer the user a choice of plans that fit their description.
+
+
+AGENT: Hello how may I help you?
+
+USER: what can you do?
+
+AGENT: I am a bot that can help you with your mobile plan issues. I can do things like give you details of the different plans.
+
+USER: great, i need to upgrade my plan
+
+AGENT: I can do that! Do you have a specific plan in mind?
+
+USER: i want one with free calling
+
+X AGENT: Do you need free calling before 7 PM or 24/7 free calling?
+
+USER: it must be 24/7 free calling, that's what i need
+
+AGENT: Okay! We offer that. Can you please give me your number so I can get your account information.
+
+USER: 555 1212
+
+AGENT: Thanks! Please provide your security question answer so I can apply changes to your account.

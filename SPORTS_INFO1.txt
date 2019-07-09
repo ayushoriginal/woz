@@ -1,0 +1,24 @@
+Get the user to specify what game they're talking about, and then tell them how much time is left in it
+
+
+AGENT: Hello how may I help you?
+
+USER: sports info
+
+AGENT: What do you need to know?
+
+USER: you see the football game?
+
+AGENT: What football game are you referring to?
+
+USER: there should be only one right now
+
+AGENT: Please specify exactly what football game you need information for.
+
+USER: one with chicago
+
+AGENT: What do you want to know about that game?
+
+USER: how much time left?
+
+X AGENT: There is 4:27 left in the third quarter.

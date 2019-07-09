@@ -1,0 +1,24 @@
+Tell the user that the number they have provided has come from a known scammer
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with a scam
+
+AGENT: sure can.
+
+USER: i'm getting calls from 555-7225 but i don't know this person
+
+AGENT: i can check that for you
+
+USER: ok
+
+X AGENT: that number is from a known scammer and should not be trusted
+
+USER: what should i do about it?
+
+AGENT: i would report it
+
+USER: to the police?
+
+AGENT: yes

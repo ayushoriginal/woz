@@ -1,0 +1,24 @@
+Inform the user that the bus stop they are asking about has been moved two blocks north
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you help me with a bus
+
+AGENT: I can, what do you need to know?
+
+USER: Is the bus stop at Dee Lane still a bus stop?
+
+X AGENT: This bust stop has been moved two blocks north to Cadbury Street.
+
+USER: Ok where is that
+
+AGENT: From your location, this is three blocks north.
+
+USER: OK just North past the Starbucks?
+
+AGENT: Yes, past the Starbucks and before the Wal Mart
+
+USER: Ok I think I know where that is - Thanks
+
+AGENT: No problem

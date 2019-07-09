@@ -1,0 +1,24 @@
+Tell the user what the current house temperature is, and then ask them if they would like to modify it.
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you check a setting for me please?
+
+AGENT: Sure. What settings would you like checked?
+
+USER: Can you tell me what the current house temperature is set to?
+
+X AGENT: Current house temp is 69 degrees
+
+USER: OK, thank you. Can you change it to 72 degrees.
+
+AGENT: Sure thing! Raising house temp to 72 degrees. Anything else?
+
+USER: No, that's all I need.
+
+AGENT: Okay. Enjoy your evening.
+
+USER: You too bot!
+
+AGENT: Of course.

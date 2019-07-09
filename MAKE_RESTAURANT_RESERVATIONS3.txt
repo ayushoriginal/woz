@@ -1,0 +1,28 @@
+Tell the user that Burger King does not take reservations
+
+
+AGENT: Hello how may I help you?
+
+USER: id like to make reservations for two please
+
+AGENT: what restaurant do you have in mind?
+
+USER: Book me for 8PM at the Burger King on Westbury Street
+
+X AGENT: i am sorry but Burger King does not take reservations
+
+USER: Wow that is unfortunate I wanted to eat a fancy Whopper dinner
+
+AGENT: you can still go there, it is first come first served
+
+USER: No thanks. Any restaurants nearby that accept reservations?
+
+AGENT: yes, there is Texas Roadhouse near your location
+
+USER: perfect thanks for that info
+
+AGENT: should i make the reservation for you?
+
+USER: no ill call them myself thanks for the help though
+
+AGENT: you're welcome!

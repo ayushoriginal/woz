@@ -1,0 +1,24 @@
+The user will ask to cancel all their alarms. Remind them that they have set five alarms for the next week, and, if prompted, go through them one by one
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi!
+
+AGENT: Hi, can I help you?
+
+USER: Can you help me edit my alarms?
+
+AGENT: Yes, I can. Which alarms would you like to edit?
+
+USER: Please cancel all of my alarms for next week
+
+X AGENT: I can help with that. You have five alarms for next week. Are you sure you want to cancel them all now?
+
+USER: Yes, but i want you to list them first before cancelling
+
+AGENT: No problem. You have an alarms at 8 AM on Monday. Would you like to cancel this alarm?
+
+USER: Yes all alarms for next week
+
+AGENT: Done.

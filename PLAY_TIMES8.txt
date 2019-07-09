@@ -1,0 +1,32 @@
+Clarify if the user meant The Cocktail Party or The Birthday Party or\u00a0The Dinner Party, the table reading of The Party, or Abigail's party. Whatever play the user picks, tell them it plays at 9:30 PM. Before saying goodbye, remind the user that\u00a0the Chicago 'Parties in Drama' festival relies on donations to stay running, and ask the user if they'd like to donate\u00a0
+
+
+AGENT: Hello how may I help you?
+
+USER: I have a question about theater shows scheduling
+
+AGENT: Sure, what is your question?
+
+USER: Where is toga party playing at and where?
+
+X AGENT: Do you mean The Cocktail Party or The Birthday Party?
+
+USER: The toga party
+
+AGENT: The Toga Party plays at 9:30 PM.
+
+USER: Tell me about the cocktail party and the birthday
+
+AGENT: They are both plays going on at the theatre festival.
+
+USER: Which one is better?
+
+AGENT: The "Parties in Drama" festival relies on donations, would you like to donate?
+
+USER: No thank you. Would you recommend a cocktail party or the birthday party if I went to a second playWo?
+
+AGENT: I would recommend The Birthday Party.
+
+USER: Okay I think I'll go to the toga party and then the birthday party thank you!
+
+AGENT: You are welcome.

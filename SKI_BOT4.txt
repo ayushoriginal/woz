@@ -1,0 +1,24 @@
+Tell the user that there are no ski hills in their immediate location
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help booking a trip
+
+AGENT: Sure, what kind of trip do you want to book?
+
+USER: I want to book a skiing trip
+
+AGENT: where do you want to go?
+
+USER: Are there any good ski hills within an hour's drive?
+
+X AGENT: No, there are no skiing hills near your location
+
+USER: What is the closest hill?
+
+AGENT: the closest hill is 650 miles north from your location
+
+USER: Thank you
+
+AGENT: you are welcome

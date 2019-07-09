@@ -1,0 +1,24 @@
+Inform the user that there aren't any seats available to reserve
+
+
+AGENT: Hello how may I help you?
+
+USER: Could you help me with reservations?
+
+AGENT: Sure, I can help with reservations. What would you like to reserve?
+
+USER: Find me a theater in my area that's performing Shakespeare
+
+AGENT: The Johnson theater is located 1.5 miles from your location and is performing Hamlet on the 12th. Would you like to reserve seating?
+
+USER: Sure, that sounds great! I'd like 3 tickets for that show on the 12th please
+
+X AGENT: I'm sorry, it looks like all the seats for the 12th have just filled. Would you be interested in the show on the 13th?
+
+USER: Yes, I would
+
+AGENT: Alright. I will reserve 3 tickets for Hamlet at Johnson theater for June 13th at 8 PM. Is that OK?
+
+USER: Yep, that's great Thanks for the help!
+
+AGENT: Your reservations have been made.

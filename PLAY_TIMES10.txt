@@ -1,0 +1,24 @@
+Tell the user that the play they're asking for\u00a0will be playing at noon
+
+
+AGENT: Hello how may I help you?
+
+USER: i need information on a show please
+
+AGENT: Okay which show do you need info on?
+
+USER: the Waltz Invention
+
+X AGENT: The Waltz Innovation will be playing at noon today
+
+USER: will it be playing tonight
+
+AGENT: No there's just one showing at noon. Tomorrow it will be at 6pm though
+
+USER: what is the duration of the show
+
+AGENT: The show is 3 hours and 6 minutes with a 30 minute intermission period
+
+USER: great, thank you so much
+
+AGENT: you are welcome

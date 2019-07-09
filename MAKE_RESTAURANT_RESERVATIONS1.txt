@@ -1,0 +1,24 @@
+Tell the user that there is only enough space available at that restaurant for 10
+
+
+AGENT: Hello how may I help you?
+
+USER: I'd like to reserve a table for 16 at Fogo de Chao in Kansas City Missouri
+
+AGENT: Which day would you like to make this reservation?
+
+USER: Saturday night 7 p.m.
+
+AGENT: I need a date in order to make a reservation for you.
+
+USER: Ok
+
+X AGENT: I'm sorry, Fogo de Chao only has room for 10 on Saturday night.
+
+USER: Are there any places that do have availability for 16?
+
+AGENT: Mama Mia's Italian restaurant has seating for 16 available on Saturday at 7pm if you'd like to try that one.
+
+USER: That works
+
+AGENT: Ok, I've made reservations for 16 at Mama Mia's for you.

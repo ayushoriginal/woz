@@ -1,0 +1,24 @@
+Tell the user that there are a lot of conditions that decide the cost of a wedding, so it's impossible to say which destination will cost more.
+
+
+AGENT: Hello how may I help you?
+
+USER: hi i need some help with my wedding plans
+
+AGENT: sure, what is it? hello, are you still there?
+
+USER: which one is more expensive a beach or private island wedding?
+
+AGENT: the cost matters to the qualities and guests number you allow to enter to your wedding
+
+USER: we have 50 guests
+
+X AGENT: its really impossible to say the cost for your destination hello there!
+
+USER: i just want a private and unique wedding experience
+
+AGENT: okay you can go with it! best wishes!
+
+USER: ok thanks
+
+AGENT: Great!

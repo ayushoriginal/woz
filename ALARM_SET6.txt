@@ -1,0 +1,26 @@
+If the user asks to change their alarm to vibrate, confirm whether or not they still want it to make a sound as well. If they do want a sound, ask them to confirm what sound they want
+
+
+AGENT: Hello how may I help you?
+
+USER: Change my alarm for me please.
+
+AGENT: ok. What can I change on your alarm?
+
+USER: I want to change my 10:30 to 11:30.
+
+AGENT: Ok. I have changed the alarm time
+
+USER: Also, switch it over to vibrate.
+
+X AGENT: ok. Would you like it to make a sound as well?
+
+USER: No, I just want it to vibrate.
+
+AGENT: Ok. Switching your alarm to vibrate only
+
+USER: OK, that will do it.
+
+AGENT: ok. have a good day
+
+USER: Goodbye!

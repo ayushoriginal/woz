@@ -1,0 +1,24 @@
+Suggest to the user that they're thinking of 'Party all the time' by Eddie Murphy 
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help remembering something it's a song
+
+AGENT: I can help you remember songs.
+
+USER: It's about this guy he's complaining about his girlfriend who won't stop partying
+
+AGENT: Do you have anymore information on the song?
+
+USER: I think it came out in the 80s
+
+X AGENT: I think the song is "Party all the time" by Eddie Murphy.
+
+USER: Yeah that's it thank you!
+
+AGENT: Is there anything else you need?
+
+USER: Nope
+
+AGENT: Have a good day!

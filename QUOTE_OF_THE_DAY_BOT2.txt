@@ -1,0 +1,24 @@
+Offer this quote from William Makepeace Thackary: 'Bravery never goes out of fashion. '
+
+
+AGENT: Hello how may I help you?
+
+USER: I need a good daily quote. Can you help me with that?
+
+AGENT: sure. How are you?
+
+USER: I am great. I need a quote about dealing with bravery please.
+
+X AGENT: okay "Bravery never goes out of fashion" - William Makepeace Thakckary
+
+USER: That's an interesting quote. Can I have one more?
+
+AGENT: okay I will check for a better one
+
+USER: Ok thanks
+
+AGENT: okay wait feel better?
+
+USER: No :(
+
+AGENT: sorry

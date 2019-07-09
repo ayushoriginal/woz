@@ -1,0 +1,26 @@
+Tell the user that the first person to ask who's 'it', is 'it'
+
+
+AGENT: Hello how may I help you?
+
+USER: can you help me with a rule for the game of tag?
+
+AGENT: Sure thing, what is it that you are looking for in particular
+
+USER: can you tell me the rule for how to pick the first person to be it?
+
+AGENT: Well it depends on the type of tag game you are playing
+
+USER: we're just playing regular tag
+
+X AGENT: Well let say if the first person to ask who's it, is it
+
+USER: what if nobody wants to be it first?
+
+AGENT: Well then perhaps you can then randomly chose a person
+
+USER: ok we'll try that out
+
+AGENT: I mean choose
+
+USER: thanks for the help

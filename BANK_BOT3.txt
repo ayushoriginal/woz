@@ -1,0 +1,24 @@
+The user is worried that someone has meddled with their finances. Provide evidence that this is true (inform the user of large, suspicious purchases, recent changes to investments, etc).\u00a0
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with my bank account are you there mr. bot?
+
+AGENT: I need your bank account number first
+
+USER: it is 3838234
+
+AGENT: What do you need from me?
+
+USER: i think someone hacked my bank account. can you check to make sure everything is alright?
+
+X AGENT: I see some suspicious purchases. For instance in the past 60 days your account was used to buy 6 gift cards from Dick's Sporting Goods
+
+USER: oh no. what can i do about this?
+
+AGENT: I can cancel your card and put a temporary freeze on your account.
+
+USER: ok let's do that
+
+AGENT: Okay I'm mailing you out a new card it should arrive within 48 hours

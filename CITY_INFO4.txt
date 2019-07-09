@@ -1,0 +1,24 @@
+Provide the user with multiple answers
+
+
+AGENT: Hello how may I help you? Hello?
+
+USER: I need some information about a city
+
+AGENT: Ok, I can help. Which city?
+
+USER: Rome, I would like to know who founded it?
+
+X AGENT: Romulus and Remus.
+
+USER: Thank you
+
+AGENT: Can I help you with anything else?
+
+USER: When was Rome Founded?
+
+AGENT: In the 700s BC.
+
+USER: Thanks
+
+AGENT: Sure!

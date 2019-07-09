@@ -1,0 +1,26 @@
+Confirm the date of the appointment
+
+
+AGENT: Hello, how may I help you?
+
+USER: Can you tell me what appointment I have a week from Monday
+
+X AGENT: one week from monday you have an appointment called "work meeting"
+
+USER: Yes I need you to send me a reminder for that meeting
+
+AGENT: when would you like to receive a reminder?
+
+USER: The day before the meeting at 6 p.m.
+
+AGENT: i will remind you of your meeting one day before at 6pm
+
+USER: Great
+
+AGENT: is there anything else you need help with today
+
+USER: No
+
+AGENT: ok. i'm here if you need help if the future.
+
+USER: Thanks

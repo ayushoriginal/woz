@@ -1,0 +1,24 @@
+Ask the user which bus and which stop they're at, and then tell them that the next bus will be coming in a half hour
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help with transit schedules
+
+AGENT: which bus stop are you at?
+
+USER: Grand station
+
+AGENT: What bus are you waiting for?
+
+USER: IRT
+
+X AGENT: The next bus will be coming in a half hour
+
+USER: Ok, what about after that?
+
+AGENT: It will come half hour after that
+
+USER: Thank you
+
+AGENT: You are welcome

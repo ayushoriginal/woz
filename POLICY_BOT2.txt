@@ -1,0 +1,24 @@
+Tell the user the company provides health insurance after the employee has been employed for six months
+
+
+AGENT: Hello how may I help you?
+
+USER: Do we have health insurance with this company?
+
+X AGENT: Health insurance is provided after 6 months
+
+USER: Oh when will I hit 6 months?
+
+AGENT: In 3 more weeks
+
+USER: Okay I guess I'll have to wait till then I hope I stay healthy LOL
+
+AGENT: I hope so too
+
+USER: Thank you for your help!
+
+AGENT: Anything else I can do for you
+
+USER: No that's it thank you!
+
+AGENT: have a nice day!

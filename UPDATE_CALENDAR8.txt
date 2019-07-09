@@ -1,0 +1,24 @@
+ Inform the user that the room they are trying to schedule for their meeting is already booked and suggest a different room
+
+
+AGENT: Hello how may I help you? How may I help you?
+
+USER: Hi! I need help with a scheduled meeting.
+
+AGENT: Sure. When do you want to schedule this meeting?
+
+USER: Can you please check my meetings for March 24th.
+
+AGENT: Okay. Please wait for a moment Upon checking, you do have a meeting on March 24
+
+USER: Okay. What time is the meeting scheduled for?
+
+AGENT: It is scheduled at 2:00 pm
+
+USER: Okay. Can you set the place for the meeting to Brich room? *Birch
+
+X AGENT: I'm sorry to inform you but Birch room is not available.
+
+USER: Okay. Never mind. I think that's all I need. Thanks.
+
+AGENT: Your welcome

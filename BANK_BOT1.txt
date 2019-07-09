@@ -1,0 +1,24 @@
+Fulfil the user's request
+
+
+AGENT: Hello how may I help you?
+
+USER: I want to do some money transfers.
+
+AGENT: Acct #
+
+USER: 450450505
+
+AGENT: What would you like to transfer
+
+USER: I want to transfer $69 from my checking into my savings account.
+
+X AGENT: Okay that transfer has now taken place
+
+USER: Great! What is my balance now in my savings?
+
+AGENT: 71 dollars
+
+USER: Thank you very much.
+
+AGENT: Welcome

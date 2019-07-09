@@ -1,0 +1,24 @@
+Tell the user that you are a bot designed to clarify rules, not controls, and suggest they look for some kind of GAME_CONTROLS bot
+
+
+AGENT: Hello how may I help you?
+
+USER: Are you familiar with games?
+
+AGENT: yes
+
+USER: Video games in particular
+
+AGENT: yes
+
+USER: I have a question concerning Super Mario
+
+AGENT: yes?
+
+USER: What button do I need to press to jump in Super Mario 64?
+
+X AGENT: im sorry i cant help you with that as im a bot for clarifying rules of the game
+
+USER: You don't have the answer for me?
+
+AGENT: i suggest to find a game control bot

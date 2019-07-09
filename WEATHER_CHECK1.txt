@@ -1,0 +1,24 @@
+Let the user know whether or not it will rain this weekend
+
+
+AGENT: Hello how may I help you?
+
+USER: I need some weather info
+
+AGENT: Yes, I can help you with the weather, How may i help you?
+
+USER: Is it going to rain this weekend?
+
+AGENT: May I have your city location?
+
+USER: 90210
+
+X AGENT: according to weather.com, there will no rains for this weekend.
+
+USER: What will be the temperature during the weekend?
+
+AGENT: this weekend temperature is maximum 88 degree and minimum 74 degree.
+
+USER: Thank you for the info
+
+AGENT: thank you. hope you enjoy your weekend.

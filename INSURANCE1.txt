@@ -1,0 +1,24 @@
+Tell the user their policy does not cover water damage
+
+
+AGENT: Hello how may I help you?
+
+USER: Yes
+
+AGENT: How can I be of assistance?
+
+USER: I want to know about the policy I own
+
+AGENT: Okay, can I get your name please?
+
+USER: Does it covers the water damage?
+
+AGENT: I need your name and policy number to access your policy, please.
+
+USER: Jane Santos 25445588
+
+X AGENT: Thank you, it appears your policy does not cover water damage.
+
+USER: Oh okay
+
+AGENT: Is there anything else I can help you with?

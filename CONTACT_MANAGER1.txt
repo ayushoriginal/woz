@@ -1,0 +1,28 @@
+Fulfil the user's request, but inform them that if you do so, the current contact will not have any phone numbers associated with them
+
+
+AGENT: Hello how may I help you?
+
+USER: Hello. I need help managing my contacts.
+
+AGENT: What do you need?
+
+USER: Could you please delete one of my phone numbers?
+
+AGENT: What is the name of the contact?
+
+USER: The name is Kimberly.
+
+AGENT: What is her last name?
+
+USER: Her last name is Wright.
+
+X AGENT: If you delete the number, she will no longer have any phone numbers associated with her. Are you sure?
+
+USER: Yes, I am sure.
+
+AGENT: Okay. I have deleted her number
+
+USER: Thank you.
+
+AGENT: You are welcome

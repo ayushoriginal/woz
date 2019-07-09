@@ -1,0 +1,24 @@
+Ask what type of sound the user wants to set their alarm to make
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to edit my alarm
+
+AGENT: Okay. Which alarm?
+
+USER: my alarm named tuesday
+
+AGENT: Alright. How do you want to edit it?
+
+USER: change it from vibrate to sound
+
+X AGENT: Okay. What sound do you want the alarm to make?
+
+USER: birds chirping
+
+AGENT: I've set it to that sound. Anything else?
+
+USER: That's it!
+
+AGENT: Alright then. Have a nice day.

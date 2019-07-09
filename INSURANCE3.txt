@@ -1,0 +1,24 @@
+Tell the user they will have to make an appointment with their insurance broker
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi. I need help with my insurance
+
+AGENT: Sure, what's you policy number
+
+USER: 5642394
+
+AGENT: Okay, it's pulled up. What can I answer for you?
+
+USER: How do I change the terms of my life insurance policy?
+
+X AGENT: I can change them for you. What would you like to change? Unless it's more detailed information then you will have to make an appointment with your insurance broker
+
+USER: Can I lower my payments by $20 a month?
+
+AGENT: For that, this will take numbers being moved around so you'll have to contact your broker
+
+USER: Okay. thanks anyway
+
+AGENT: You're welcome. Have a good day!

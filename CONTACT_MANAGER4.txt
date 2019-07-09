@@ -1,0 +1,24 @@
+Make sure the user definitely wants to erase the contact
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to erase a contact.
+
+AGENT: I can erase a contact for you. What is the name?
+
+USER: Gary Glitter
+
+X AGENT: Are you sure you wish to erase this contact?
+
+USER: Yes, I know longer need to get ahold of him
+
+AGENT: There will be no retrieving the details.
+
+USER: That is fine. I don't need it
+
+AGENT: Okay. it is done. Anything else?
+
+USER: No that is all.
+
+AGENT: Have a great day!

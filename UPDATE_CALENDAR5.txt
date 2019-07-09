@@ -1,0 +1,24 @@
+Schedule the user's meeting request
+
+
+AGENT: Hello how may I help you?
+
+USER: I need helo with a metting.
+
+AGENT: Sure. Wheat date is the meeting?
+
+USER: 3/24
+
+AGENT: And the time?
+
+USER: 2:00
+
+AGENT: Does it have a title?
+
+USER: Can you title it Nomination Discussion?
+
+X AGENT: No problem. Your Nomination Discussion meeting is now booked on 3/24 at 2:00.
+
+USER: thank you
+
+AGENT: You're welcome.

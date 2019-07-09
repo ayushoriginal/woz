@@ -1,0 +1,24 @@
+Tell the user that the pizza is en route to their house
+
+
+AGENT: Hello how may I help you?
+
+USER: hi i need to check the status of my order
+
+AGENT: Of your pizza order?
+
+USER: yeah, how did you know
+
+X AGENT: That's the only thing you've ordered recently. I was just checking to make sure. Anyway, it's en route to your house.
+
+USER: How long before it arrives
+
+AGENT: Fifteen minutes.
+
+USER: alright thanks can you remind me in 5 about this?
+
+AGENT: You are welcome. And yes, I can remind you.
+
+USER: that's appreciated. thanks
+
+AGENT: You are welcome. Enjoy your pizza.

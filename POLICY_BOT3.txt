@@ -1,0 +1,26 @@
+Inform the users that animals are forbidden at work unless they are service animals
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with the company policy
+
+AGENT: Sure. What would you like to know?
+
+USER: can i bring in a dog to work?
+
+AGENT: Is it a service dog?
+
+USER: it is not
+
+X AGENT: I am sorry, but company policy only allows for service dogs in our office
+
+USER: does our office have pet sitting services?
+
+AGENT: No, those services are not available
+
+USER: ok i will have to find a sitter then
+
+AGENT: Is there anything else I can help with?
+
+USER: no

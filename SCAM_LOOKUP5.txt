@@ -1,0 +1,32 @@
+Tell the user to be suspicious of image attachments from unknown numbers
+
+
+AGENT: Hello how may I help you?
+
+USER: need some advice
+
+AGENT: Okay, what can I help you with?
+
+USER: i've been getting texts from a number with suspicious image attachments is that bad?
+
+X AGENT: yes, be very suspicious of image attachments from unknown numbers
+
+USER: well, actually the number is that of a trusted companion, but the attachments are shady
+
+AGENT: Do not open the attachments
+
+USER: could it be a scam?
+
+AGENT: Perhaps contact your friend to ask if he or she sent them to you
+
+USER: should i get a new phone just to be safe?
+
+AGENT: Yes, it is most likely a scam
+
+USER: i see. thanks for telling me that
+
+AGENT: no need to get a new phone, just be cautious with any links or attachments from unknown numbers
+
+USER: ok, that's all i need to know right now. thanks again for helping
+
+AGENT: You are welcome. Have a great day!

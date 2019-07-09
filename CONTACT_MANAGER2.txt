@@ -1,0 +1,24 @@
+Inform the user that you currently only support one email address per contact, and ask if they'd like to erase the contact's current email address or create a new contact for the email they are trying to add
+
+
+AGENT: Hello how may I help you?
+
+USER: i need to update a contact
+
+AGENT: Which contact would you like to update?
+
+USER: david jones
+
+AGENT: What would you like to update?
+
+USER: i'd like to add his email address - djones@gmail.com
+
+X AGENT: David Jones already has an email. We only support one email address per contact. would you like to erase it or create a new contact?
+
+USER: get rid of the old email please
+
+AGENT: Great. I have updated the email for this contact.
+
+USER: thank you so much
+
+AGENT: You're welcome.

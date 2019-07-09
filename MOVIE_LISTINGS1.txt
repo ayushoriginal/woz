@@ -1,0 +1,26 @@
+Tell the user that the movie they are asking about will be playing at 7:15 and 10:45
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with a movie
+
+AGENT: Sure, what is the name of the movie you want help with?
+
+USER: when is The Day of the Big Ants playing?
+
+AGENT: one moment as I look that up for you...
+
+USER: ok
+
+X AGENT: The Day of the Big Ants will be playing at 7:15 and 10:45
+
+USER: at which theater?
+
+AGENT: Amc 12 theater
+
+USER: thanks so much
+
+AGENT: You're welcome, anything else for today?
+
+USER: no

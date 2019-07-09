@@ -1,0 +1,26 @@
+Ask the user if they mean the tallest living person or the tallest person of all time
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi. Do you help with giving world records?
+
+AGENT: So I can help with that just give me the details
+
+USER: Well, I was wondering who the tallest person was.
+
+X AGENT: Currently alive or in history?
+
+USER: Both, please.
+
+AGENT: The tallest man ever is Robert Wadlow who is 8 feet 11 The tallest alive today is Sultan Kosen who is 8 feet 3
+
+USER: Wow.
+
+AGENT: Would you like to hear more about Robert Wadlow?
+
+USER: Yes, please!
+
+AGENT: He died at the age of 22 due to complications from an infection. He was still growing at the time he died!
+
+USER: So, he was ill?

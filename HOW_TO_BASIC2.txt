@@ -1,0 +1,44 @@
+Satisfy the user's request but remind them to take safety precautions
+
+
+AGENT: Hello how may I help you?
+
+USER: I would like to know how to do a task.
+
+AGENT: Which task?
+
+USER: I'd like to know how to boil an egg.
+
+AGENT: Okay first take out a pot
+
+USER: Got it. I have the pot.
+
+AGENT: Now fill it with water
+
+USER: Filling with water right now.
+
+AGENT: Now turn on your stove and put the pot on teh stove
+
+USER: It's now on the stove.
+
+AGENT: Now wait until the water is boiling
+
+USER: Okay, waiting. There, it's boiling.
+
+X AGENT: Remember that boiling water is very hot, so be careful!
+
+USER: Got it.
+
+AGENT: Now put your eggs in the pot
+
+USER: Eggs are in the boiling pot.
+
+AGENT: Cook them for 11-12 minutes
+
+USER: Should I turn down the heat?
+
+AGENT: Yes
+
+USER: Okay, heat is turned down. Waiting for 12 minutes.
+
+AGENT: Remove the eggs with a spoon and submerge in cold water. Now you're done!

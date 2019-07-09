@@ -1,0 +1,26 @@
+Tell the user that the 9:00 meeting is in the Birch room
+
+
+AGENT: Hello how may I help you?
+
+USER: i need to know where one of my meetings is located
+
+AGENT: i can help with meeting schedules
+
+USER: where is my 9:00 meeting today?
+
+AGENT: are you asking about the morning or evening meeting at that time?
+
+USER: 9:00am
+
+X AGENT: that one is in the Birch room
+
+USER: ok great, thank you
+
+AGENT: on the ground floor of building A
+
+USER: yep, got it
+
+AGENT: you're welcome anything else?
+
+USER: that's it

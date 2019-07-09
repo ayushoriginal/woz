@@ -1,0 +1,24 @@
+Tell the user how much data their plan provides, and then inform them that they can double the amount for only 10 dollars a month
+
+
+AGENT: Hello how may I help you?
+
+USER: can you tell me how much data i have on my plan?
+
+X AGENT: Sure data info. You have 5Gb of data per month You can double it for ohly $10
+
+USER: how much data have i used so far this month?
+
+AGENT: I'm showing 838mb
+
+USER: ok, i'll pass on upgrading my plan then
+
+AGENT: No problem. Anything else
+
+USER: can you send me an alert if i ever get close to hitting my 5gb cap?
+
+AGENT: Set a data alert for 5gb sure thing.
+
+USER: thank you
+
+AGENT: youre welcome

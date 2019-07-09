@@ -1,0 +1,24 @@
+Confirm that the user wants to set their phone to vibrate and not to vibrate plus ringtone
+
+
+AGENT: Hello how may I help you?
+
+USER: help me with my phone
+
+AGENT: I will help you any way I can
+
+USER: it is ringing too loud
+
+AGENT: do you want to lower the volume?
+
+USER: no set it to vibrate
+
+X AGENT: Do you want to change it to vibrate only or to vibrate and ringtone?
+
+USER: just vibrate
+
+AGENT: ok, I've made the changes
+
+USER: ok thanks
+
+AGENT: you are welcome

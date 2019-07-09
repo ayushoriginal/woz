@@ -1,0 +1,24 @@
+Tell the user they should not click links in texts sent from unknown numbers
+
+
+AGENT: Hello how may I help you?
+
+USER: I just received a text from a number I don't know and it has a link on it should I click on it
+
+X AGENT: you shouldn't click on links in texts if you don't know the number
+
+USER: What if i did?
+
+AGENT: did you get a virus?
+
+USER: Not sure
+
+AGENT: run a virus scan now
+
+USER: Ok i will
+
+AGENT: and block that number
+
+USER: Ok
+
+AGENT: great

@@ -1,0 +1,26 @@
+Tell the user that the place they are looking for doesn't seem to exist, and suggest alternatives
+
+
+AGENT: Hello, how may I help you?
+
+USER: I want some help finding a place on a map Can you please help me?
+
+AGENT: What is the name of the place?
+
+USER: the country is Never Never Land
+
+X AGENT: That place doesn't exist. Did you mean New Zealand?
+
+USER: Maybe. I think Peter Pan came from there
+
+AGENT: Peter Pan is a fictional character. and so is Never Never Land
+
+USER: Oh really? I just saw him on TV last night.
+
+AGENT: I was most likely a fictional show or moviie
+
+USER: Does that mean real or not real?
+
+AGENT: It's not real
+
+USER: Oh okay. I guess it's just a fantasy country. Thanks

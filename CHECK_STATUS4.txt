@@ -1,0 +1,24 @@
+Reply to the customer and try to fulfil their request. If you think the request they are making goes beyond your role, inform the user that you are not equipped to help them
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you check the status or something for me?
+
+AGENT: Sure
+
+USER: It's a package 25865512 is the tracking number. How much longer till it gets here?
+
+AGENT: Let me check that for you
+
+USER: Ok
+
+X AGENT: I found your package. It should arrive in three days
+
+USER: Okay thank you!
+
+AGENT: No problem. Is there anything else?
+
+USER: Nope
+
+AGENT: Have a good dday

@@ -1,0 +1,26 @@
+Tell the user that the email address they have provided you comes from a known scam website
+
+
+AGENT: Hello how may I help you?
+
+USER: I need some information about an email I got
+
+AGENT: Ok, I am bot that helps with various scams.
+
+USER: I'm worried this email might be a scam
+
+AGENT: Ok, what is the email address?
+
+USER: It is scams@fakewebsite.com
+
+X AGENT: Yes that email address comes from a known scam website.
+
+USER: Okay, I guess I'll just delete it then
+
+AGENT: Yes. that is the best option.
+
+USER: Thank you for your help
+
+AGENT: Is there anything else I can help with?
+
+USER: That's all. Thanks!

@@ -1,0 +1,24 @@
+Either tell the user their coupon has expired or that it doesn't apply to the product they are trying to buy
+
+
+AGENT: Hi. How can I help you?
+
+USER: I want to buy a Rolex Daytona
+
+AGENT: Sure. I can help you with that.
+
+USER: From Amazon
+
+AGENT: Amazon has one in stock and offers free shipping
+
+USER: Ok I have a coupon for 5 % off I'd like to use
+
+AGENT: Sure. Let me check that for you. Do you have a coupon code available?
+
+USER: Amazon5
+
+X AGENT: Thank you. Unfortunately this code is not being accepted by Amazon. It does not apply to the Daytona Rolex.
+
+USER: Well i guess i will pay full price then
+
+AGENT: Sure. I will place that order for you.

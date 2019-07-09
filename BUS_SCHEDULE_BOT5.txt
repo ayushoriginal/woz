@@ -1,0 +1,24 @@
+Verify which subway station the user wants to go to. Once that is confirmed, inform them that the subway stopped running ten minutes ago and will start again at 5:45 am
+
+
+AGENT: Hello how may I help you?
+
+USER: I need help with subway times.
+
+AGENT: I can help with transit information.
+
+USER: Is the subway still running?
+
+AGENT: I can check on that, but I need to know which station you're going to.
+
+USER: Station 17.
+
+X AGENT: It looks like trains to Station 17 stopped running ten minutes ago. They will resume service at 5:45 am
+
+USER: Okay and what about Station 18?
+
+AGENT: Yes, same for Station 18. Trains will resume at 5:45am.
+
+USER: Alright thanks!
+
+AGENT: You're welcome.

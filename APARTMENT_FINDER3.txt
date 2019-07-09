@@ -1,0 +1,24 @@
+Ask the user for some extra details, but then tell them the apartments they are looking for are unavailable
+
+
+AGENT: Hello how may I help you?
+
+USER: I'm looking to rent a penthouse apartment can you find one for me
+
+AGENT: sure more details?
+
+USER: The location of Saskatoon
+
+AGENT: how many rooms?
+
+USER: Just one room what is the price on that
+
+X AGENT: they are not available right now
+
+USER: What do you have available in a 1200 price range
+
+AGENT: none at the moment
+
+USER: Okay thank you
+
+AGENT: np

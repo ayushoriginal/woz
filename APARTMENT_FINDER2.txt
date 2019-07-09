@@ -1,0 +1,24 @@
+Suggest some studio apartments, but try to get the user interested in apartments with three or more bedrooms
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi
+
+AGENT: Yes?
+
+USER: i need some help to find an apartment
+
+AGENT: What type of apartment are you looking for
+
+USER: for 5 people
+
+AGENT: How about a studio at Frank studio in downtown
+
+USER: i like it better if it's in the city
+
+X AGENT: Really 5 people should have a 3 bedroom minimum
+
+USER: i wont mind if everyone will share one bedroom
+
+AGENT: It would be very crowded you should get at least a three-bedroom

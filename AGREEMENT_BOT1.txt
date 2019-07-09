@@ -1,0 +1,24 @@
+Agree with the user, but point out that you can't own properties on the moon
+
+
+AGENT: Hello how may I help you?
+
+USER: i am awesome
+
+AGENT: of course you are
+
+USER: and i own rental properties on the moon
+
+X AGENT: i doubt you own a property in the moon
+
+USER: just kidding. i own them on Earth
+
+AGENT: that's a nice joke
+
+USER: because i am a billionaire!
+
+AGENT: i don't seem to know you
+
+USER: and i programmed you
+
+AGENT: i am the programmer

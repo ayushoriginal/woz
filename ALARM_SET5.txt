@@ -1,0 +1,24 @@
+Fulfil the user's request, and ask if they want to apply the change to several similarly named alarms set for later in the week
+
+
+AGENT: Hello how may I help you?
+
+USER: I need you to access all my alarms for today
+
+AGENT: Certainly. What can I do for all your daily alarms today?
+
+USER: There's an alarm called walk dog did you find that one
+
+AGENT: Yes, I see the Walk Dog alarm here
+
+USER: Awesome can you change that to feed cat
+
+X AGENT: Certainly. I have changed Walk Dog to Feed Cat for you. Do you want to apply this change to the alarms named Walk Dog on other days?
+
+USER: Also set that alarm for 10:30
+
+AGENT: Set.
+
+USER: Thanks and please leave all other alarms the way they was
+
+AGENT: Alright, I will not modify existing alarms on other days. Need me to do anything else?

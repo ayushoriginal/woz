@@ -1,0 +1,24 @@
+Tell the user that catch is a game where two or more people toss an object, usually a ball, between themselves for an indeterminate time.
+
+
+AGENT: Hello how may I help you?
+
+USER: I need some help
+
+AGENT: Some help with what?
+
+USER: How to Play Catch?
+
+AGENT: I can help you with that.
+
+USER: okay
+
+X AGENT: The game is technically played with 2 or more people. The participants throw an object back and forth (usually a ball) until they no longer want to play the game.
+
+USER: Wht's the rule?
+
+AGENT: There really are no rules. It's not a competitive game unless you are playing a modified version of the game.
+
+USER: okay thanks!
+
+AGENT: It's pretty much for fun and to practice throwing the object where you want it to go, and catching the object when it is thrown back to you.

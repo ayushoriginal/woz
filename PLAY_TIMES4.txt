@@ -1,0 +1,24 @@
+Tell the user that the two plays they're asking about are playing at the same time today, but that tomorrow, Cabaret will play at 6 PM, but Phantom of the Opera starts at midnight
+
+
+AGENT: Hello how may I help you?
+
+USER: Are Cabaret and Phantom of the Opera showing simultaneously today?
+
+AGENT: Yes. Both shows are at 6PM today.
+
+USER: What about tomorrow
+
+X AGENT: Tomorrow, Cabaret is at 6PM and Phantom of the Opera is at midnight.
+
+USER: I'd like a Phantom of the Opera ticket for today and a cabaret ticket for tomorrow
+
+AGENT: Okay, would you like the best available seat or the least expensive?
+
+USER: How much is the best how much is the cheapest?
+
+AGENT: The best seat is $149.95 and the least expensive seat is $99.95.
+
+USER: I'll take the best
+
+AGENT: Okay I have booked the best seat available for you. They will be available at Will Call for you.

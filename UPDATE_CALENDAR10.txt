@@ -1,0 +1,24 @@
+ Inform the user that the new meeting they're trying to schedule conflicts with an existing meeting
+
+
+AGENT: Hello how may I help you?
+
+USER: i need to change something for one of my meetings
+
+AGENT: What meeting would you like to change
+
+USER: my 3pm investor meeting on march 24th
+
+AGENT: Okay I found your 3 p.m. investor meeting that is on March 24th how would you like to modify that
+
+USER: can you change the time to 8am please?
+
+X AGENT: I'm sorry that time conflicts with an existing meeting you already have schedule
+
+USER: what meeting is at 8am?
+
+AGENT: You have a meeting at 8 a.m. to meet with your boss
+
+USER: can you cancel that meeting and change the time of the investor meeting to 8am?
+
+AGENT: Are you sure you want to cancel the meeting with your boss you could get fired

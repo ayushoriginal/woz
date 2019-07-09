@@ -1,0 +1,24 @@
+Inform the user that while there are no restrictions, it is generally suggested that the field of play not exceed\u00a03.41 square kilometres (the area of Central Park) and not get any smaller than the size of an olympic swimming pool (1250 square metres). 
+
+
+AGENT: Hello how may I help you?
+
+USER: I have a question about some rules of a game
+
+AGENT: I can help with rules of a game, can you be more specific?
+
+USER: Do you know game of tag?
+
+AGENT: I am familiar with the game of tag, what is your question?
+
+USER: Are there any restrictions on the field?
+
+X AGENT: It is generally suggested that the field of play not exceed 3.41 square kilometers
+
+USER: Thanks for info
+
+AGENT: May I help with anything else?
+
+USER: No
+
+AGENT: Good bye

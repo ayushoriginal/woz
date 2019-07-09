@@ -1,0 +1,24 @@
+Tell the user the secret Miracle is scheduled for 8 PM Saturday
+
+
+AGENT: Hello how may I help you?
+
+USER: I need some information about a play please
+
+AGENT: I can do that for you. What show are you interested in?
+
+USER: The Secret Miracle
+
+X AGENT: The Secret Miracle is scheduled for 8pm on Saturday night.
+
+USER: Is that the opening night show?
+
+AGENT: The opening night for The Secret Miracle is on Friday at 7pm
+
+USER: Are tickets still available?
+
+AGENT: Yes there is limited seating available which can be bought from this website or at the box office the night of the show. Would you like to purchase tickets now?
+
+USER: I'll get them at the box office. Thank you
+
+AGENT: No problem. Have a great evening.

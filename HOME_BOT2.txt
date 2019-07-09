@@ -1,0 +1,24 @@
+Ask the user what music they want to listen to
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you turn on some music?
+
+X AGENT: What music do you want to play?
+
+USER: Elmo Got The Moves
+
+AGENT: Okay Playing Elmo got moves on Spotify
+
+USER: Then play Believer
+
+AGENT: Okay Believer is added to que
+
+USER: Then play The Barney Song
+
+AGENT: Okay
+
+USER: Thanks Cortana
+
+AGENT: You are welcome

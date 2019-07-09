@@ -1,0 +1,26 @@
+Tell the user that their book is in, and offer to reserve it for them
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you check on something for me?
+
+AGENT: I sure can, what would you like me to check?
+
+USER: Is Ender's Game available to be checked out?
+
+X AGENT: Yes it is, would you like me to reserve it for you?
+
+USER: Yes please.
+
+AGENT: What is your card number?
+
+USER: 1068919265
+
+AGENT: Just a second please
+
+USER: Okay, thanks
+
+AGENT: I have reserved it for you, anything else?
+
+USER: Nope, that is all.

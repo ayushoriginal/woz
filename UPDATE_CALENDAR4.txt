@@ -1,0 +1,24 @@
+Schedule the user's meeting request
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to schedule a meeting
+
+AGENT: When is the meeting?
+
+USER: march 24th
+
+AGENT: Okay What time is the March 24 meeting?
+
+USER: 7am
+
+AGENT: Okay do you want to add a title for the March 24 7am meeting?
+
+USER: morning meeting
+
+X AGENT: Okay I have scheduled a 7am meeting on March 24 titled Morning Meeting. is that right?
+
+USER: That is correct
+
+AGENT: Good

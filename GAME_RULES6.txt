@@ -1,0 +1,24 @@
+Tell the user that white traditionally moves first in chess, and that there have been discussions that this gives an uneven advantage to the player playing white
+
+
+AGENT: Hello how may I help you?
+
+USER: I have a question about the game of Chess.
+
+AGENT: go ahead
+
+USER: Who goes first in the game?
+
+X AGENT: white
+
+USER: Is this always the case?
+
+AGENT: yes
+
+USER: I swore I saw a game last week and black started.
+
+AGENT: thats a wrong chess
+
+USER: They must not have known the rules like you do.
+
+AGENT: yes

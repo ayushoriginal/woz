@@ -1,0 +1,24 @@
+Try to suggest some restaurants or types of restaurants that can accomodate the user's request
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi I need some help finding a place to eat at
+
+AGENT: sure, may I have your city location?
+
+USER: Riverside, CA
+
+AGENT: thank you. Are you looking for any specific restaurant?
+
+USER: Uhm, just anything that doesn't serve tomatoes, I'm allergic to them
+
+AGENT: sure, we recommend Chinese food and Japanese food? are you interesting for one of them ?
+
+USER: Japanese sounds good. Can you recommend me a place or two in downtown?
+
+X AGENT: sure, there is little tokyo in valley blvd, and hondashi restaurant in edison ave.
+
+USER: That sounds good, I'll check them both.
+
+AGENT: thank you .I am glad that I can help you.

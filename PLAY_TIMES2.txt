@@ -1,0 +1,24 @@
+Tell the user that the play is playing at the Menard University auditorium at  8 PM
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi, I was hoping to look at the schedule for shows around me
+
+AGENT: I'd be happy to help with that. Are you looking at any show in particular?
+
+USER: I was looking for The Enemies
+
+AGENT: Okay, I show that the Enemies is playing tonight at 8 pm
+
+USER: Okay, is it at the Hladik memorial theater?
+
+X AGENT: Actually it has changed. It is now showing at the Menard University auditorium
+
+USER: Okay, how far away is that from the Hladik?
+
+AGENT: That is 3 miles west
+
+USER: Okay, can I get two tickets at that showtime?
+
+AGENT: I can have those waiting for you at the Will Call booth

@@ -1,0 +1,24 @@
+Check if the user lives in the same town as the library. If they do not, inform them that a membership card will cost 75 dollars monthly.
+
+
+AGENT: Hello how may I help you?
+
+USER: I need to apply for a membership.
+
+AGENT: Certainly, I can check on that for you. What town do you reside in
+
+USER: Denver
+
+X AGENT: Hm, it seems you do not live in the same town as the library. Membership will cost 75 a month
+
+USER: That seems a little steep.
+
+AGENT: I'm sorry you feel that way, but it is the library's policy
+
+USER: I think that I will pass on this purchase. Maybe there is a free library around me.
+
+AGENT: Okay! Sorry I couldn't be of more help
+
+USER: It's okay. Thank you.
+
+AGENT: No problem!

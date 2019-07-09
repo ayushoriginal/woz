@@ -1,0 +1,24 @@
+Reply to the customer and try to fulfil their request. If you think the request they are making goes beyond your role, inform the user that you are not equipped to help them
+
+
+AGENT: Hello how may I help you?
+
+USER: I need your help please
+
+AGENT: Sure, what can I help with?
+
+USER: I want to edit one of my alarms that I have set
+
+AGENT: Ok, which alarm needs updated?
+
+USER: Can you change my 6am alarm to 10am please just for the next two days though
+
+X AGENT: Yes, I will do that now, one moment
+
+USER: Thank you
+
+AGENT: Your alarm has Been updated
+
+USER: Great. Thanks you're a life saver
+
+AGENT: No problem, have a great day

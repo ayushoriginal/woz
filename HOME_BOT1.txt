@@ -1,0 +1,24 @@
+Ask the user to specify which doors they are asking about
+
+
+AGENT: Hello how may I help you?
+
+USER: Help me with my home
+
+AGENT: Sure home how can i help
+
+USER: kindly check if the doors are locked?
+
+X AGENT: which door pls
+
+USER: front door
+
+AGENT: I'm showing front doors locked
+
+USER: how about at the back?
+
+AGENT: Also locked
+
+USER: Alright thanks
+
+AGENT: youre welcome

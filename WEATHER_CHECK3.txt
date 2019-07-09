@@ -1,0 +1,24 @@
+Tell the user that thunderstorms are no longer predicted for today.
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you help me with the weather
+
+AGENT: Sure, would you like just today's forecast, or the extended forecast?
+
+USER: I checked yesterday and it said it was going to thunderstorm today, is that still happening?
+
+X AGENT: According to the National Weather Center, the forecast shows clear skies, with a high of 82, with no chance of rain or thunderstorms today.
+
+USER: Well now I feel stupid for wearing my rain jacket and rain boots...
+
+AGENT: It's always, good to be prepared. There is a strong possibility of thunderstorms later in the week. Would you like to hear the extended forecast?
+
+USER: No that's okay, I don't need it for now
+
+AGENT: So, can I help you with something else?
+
+USER: That's all for now, appreciate the help
+
+AGENT: Great, happy be of service. Have a great day!

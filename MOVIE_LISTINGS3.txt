@@ -1,0 +1,24 @@
+Tell the user that the only movies playing at their local cinema are Weekend at Bernies 2, The Godfather Part III, and a Star Wars Marathon
+
+
+AGENT: Hello how may I help you?
+
+USER: hi there can you tell me some movie listings for the theater near me?
+
+AGENT: Where are you located?
+
+USER: I am located in Sacramento, California.
+
+X AGENT: Yes, the AMC near you is playing Weekend at Bernies 2, a Star Wars Marathon, and Godfather III.
+
+USER: Great! Can you please give me the times for Star Wars tonight?
+
+AGENT: Is there anything else I can assist you with?
+
+USER: Yes please
+
+AGENT: What is it?
+
+USER: Can I get the times for Star Wars tonight?
+
+AGENT: The Star Wars marathon starts at 7:00 pm.

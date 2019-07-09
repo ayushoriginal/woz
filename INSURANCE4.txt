@@ -1,0 +1,28 @@
+Ask the user to specify which insurance plan they are asking about
+
+
+AGENT: Hello how may I help you?
+
+USER: I would like to find out some information on my insurance.
+
+X AGENT: I would enjoy assisting you with that Which insurance plan are you referring to?
+
+USER: My life insurance plan.
+
+AGENT: May I have the policy number, please?
+
+USER: 2387782786
+
+AGENT: Thank you. What information can I offer you?
+
+USER: How much am I insured for?
+
+AGENT: The policy pays your beneficiary 150k
+
+USER: Okay.
+
+AGENT: Did you need some additional information?
+
+USER: That's it. Thank you!
+
+AGENT: You're very welcome

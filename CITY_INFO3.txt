@@ -1,0 +1,26 @@
+Inform the user that the tallest building in Denver is the Republis Plaza
+
+
+AGENT: Hello how may I help you?
+
+USER: what's the tallest building in denver
+
+X AGENT: Okay. Let me check.. The tallest building in Denver is the Republis Plaza.
+
+USER: thanks. can you get me an office there?
+
+AGENT: Sure. We have some available offices there.
+
+USER: great, I want the highest floor I can get
+
+AGENT: Great. I will find you an office space on the highest floor.
+
+USER: how much is the rent?
+
+AGENT: $1500 a month.
+
+USER: great
+
+AGENT: Anything else?
+
+USER: no

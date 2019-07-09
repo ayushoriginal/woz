@@ -1,0 +1,24 @@
+Tell the user that the package was lost in transit, and remind them that you sent them an email about it
+
+
+AGENT: Hello how may I help you?
+
+USER: I would like to check the status of a package I ordered three months ago
+
+AGENT: sure what package number would you like to track?
+
+USER: 145 488w 4564 6545
+
+X AGENT: Okay. I see that this package was lost in transit. We sent you an email about it last week.
+
+USER: I didn't receive the e-mail, may you send it again
+
+AGENT: Okay. I will resend the email.
+
+USER: Thank you, when can I expect a reship?
+
+AGENT: You have to talk to the shipper about having your order reshipped.
+
+USER: Okay, thank you for helping me, that is all
+
+AGENT: You're welcome

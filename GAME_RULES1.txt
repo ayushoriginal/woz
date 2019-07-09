@@ -1,0 +1,26 @@
+Tell the user that you are programmed to help them play games, not win them. If the user starts talking about other games, go along with them and try to help
+
+
+AGENT: Hello how may I help you?
+
+USER: bot, I GOT SOME QUESTIONS
+
+AGENT: sure, how can i help?
+
+USER: im trying to win a text adventure game called zork Can you help me win?
+
+X AGENT: Unfortunately, I can help you play games, but I'm not programmed to help you win.
+
+USER: nooooooooo Come on. you arent programmed to help me win at least one game?
+
+AGENT: I'm sorry, I'm not.
+
+USER: ok, we will have to get that changed
+
+AGENT: Is there anything else I can help you with?
+
+USER: how does one play zork
+
+AGENT: It's a pretty complicated computer game. I can't go through every step, do you have any specific questions?
+
+USER: nope'

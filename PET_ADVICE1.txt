@@ -1,0 +1,26 @@
+Give the user advice but ask them what kind of dog they have.
+
+
+AGENT: Hello how may I help you?
+
+USER: i need some help with my dog
+
+AGENT: Sure what can I help with?
+
+USER: i have no clue how much food he should be going through each week
+
+X AGENT: What type of dog do you have
+
+USER: it's a small chihuahua
+
+AGENT: .how much does it weigh?
+
+USER: about 4 pounds
+
+AGENT: You should be using 5 pounds of food per week
+
+USER: ok great, thanks!
+
+AGENT: No problem, anything else?
+
+USER: that's it

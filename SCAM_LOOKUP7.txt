@@ -1,0 +1,24 @@
+Tell the user the pop up is almost definitely not legitimate
+
+
+AGENT: Hello how may I help you?
+
+USER: Can you tell me about a possible scam.
+
+AGENT: ok can you give me details for it?
+
+USER: I got a pop up on my computer that says I can get a free iPod. That sounds somewhat suspicious to me.
+
+AGENT: it does sound suspicious. did you sign up for it?
+
+USER: No I wanted to check it out first.
+
+X AGENT: it most like sounds not legitimate most likely
+
+USER: What do you think they would do if I clicked on it.
+
+AGENT: they may capture your personal information
+
+USER: It's a shame we have to worry about things like that.
+
+AGENT: yes close it immediately

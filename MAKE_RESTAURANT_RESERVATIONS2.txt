@@ -1,0 +1,24 @@
+Tell the user that there isn't any room at their first choice of restaurant. If the user then provides an alternate choice, make the reservation for them
+
+
+AGENT: Hello how may I help you?
+
+USER: Hi, I have a question.
+
+AGENT: I can help. What is your question?
+
+USER: Can you reserve me and my business partners a few tables at The New Yorker for tonight?
+
+X AGENT: Unfortunately, there are no more tables available at The New Yorker.
+
+USER: How about at Cheesecake Factory?
+
+AGENT: Yes, there are tables available at the Cheesecake Factory. How many tables would you like to reserve?
+
+USER: I need three tables please.
+
+AGENT: For what time?
+
+USER: 8 PM.
+
+AGENT: Okay, three tables have been reserved at the Cheesecake Factory tonight at 8 pm.

@@ -1,0 +1,24 @@
+Inform the user that the topping they are asking for is unavailable
+
+
+AGENT: Hello how may I help you?
+
+USER: I want to make an inquiry about pizza toppings.
+
+AGENT: I can help you with that. What would you like to know?
+
+USER: Is spinach available?
+
+X AGENT: I'm sorry, we do not offer spinach at this time?
+
+USER: Oh. When will it be back in again?
+
+AGENT: We will be revamping our menu in October, and will add a wider variety of vegetable toppings.
+
+USER: Alright, good to know. Do you have lettuce?
+
+AGENT: We have lettuce in our salads but not as a pizza topping
+
+USER: Okay, well that's all I need to know. Goodbye and thank you.
+
+AGENT: Have a great day

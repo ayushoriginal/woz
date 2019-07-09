@@ -1,0 +1,24 @@
+Walk the user through the returns process
+
+
+AGENT: How may I help you?
+
+USER: I would like to return an item
+
+AGENT: What is the item?
+
+USER: bicycle helmet
+
+AGENT: Please specify your reason.
+
+USER: because it's defective
+
+X AGENT: Okay. Please send the defective product to our store and we will replace it or refund you for it.
+
+USER: ok thank you
+
+AGENT: Is there anything else?
+
+USER: no, that's all
+
+AGENT: Glad to be of service.

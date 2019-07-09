@@ -1,0 +1,24 @@
+Tell the user their current policy covers damage caused by water, fire, and acts of god
+
+
+AGENT: Hello how may I help you?
+
+USER: hello
+
+AGENT: hi
+
+USER: i''d like to have some inquiries
+
+AGENT: how may I help you? ok
+
+USER: so i'm trying to check regarding my insurance
+
+X AGENT: current policy covers damage caused by water, fire, and acts of god?
+
+USER: ohh ok, that's kinda great
+
+AGENT: you are welcome my frind
+
+USER: ok bye
+
+AGENT: bye

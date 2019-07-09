@@ -1,0 +1,24 @@
+Specify what range of days the user wants the new alarm to apply to
+
+
+AGENT: Hello how may I help you?
+
+USER: editing alarms
+
+AGENT: Ok, what are you needing changed?
+
+USER: do you see alarm 1?
+
+AGENT: Yes I see it
+
+USER: copy it and apply it to the rest of week
+
+X AGENT: The whole week. Not just Monday through Friday?
+
+USER: yes whole week
+
+AGENT: Ok, this has been completed.
+
+USER: thanks
+
+AGENT: Anything else I can help with?

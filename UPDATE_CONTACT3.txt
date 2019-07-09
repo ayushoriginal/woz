@@ -1,0 +1,24 @@
+Inform the user that they've already added a contact under that name
+
+
+AGENT: Hello how may I help you? Hello. How may I help you today?
+
+USER: i need to add a name to a number
+
+AGENT: What is the number?
+
+USER: 888-555-5555
+
+AGENT: Pulling up number. What would you like to do with the number.
+
+USER: store the number under John
+
+AGENT: The number is listed as a contact for Jimmy Townsend.
+
+USER: WRONG Bad botr
+
+X AGENT: You already have the contact name as Jimmy Townsend listed. Would you care to update that information?
+
+USER: no update number to john
+
+AGENT: Number is already listed under Jimmy Townsend.

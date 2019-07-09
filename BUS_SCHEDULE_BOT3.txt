@@ -1,0 +1,24 @@
+Inform the user that the subways will start at 6 am
+
+
+AGENT: Hello how may I help you?
+
+USER: I want to look at some transit schedules.
+
+AGENT: What about them?
+
+USER: I'd like to look at the Chicago Subway L line.
+
+AGENT: Alright, what information would you like to know about that Line?
+
+USER: What time does that particular subway start?
+
+X AGENT: The subways will start at 6 am.
+
+USER: Thank you very much.
+
+AGENT: No problem, anything else?
+
+USER: That's all for today. Thanks.
+
+AGENT: Pleasure to be of help.

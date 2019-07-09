@@ -1,0 +1,24 @@
+Decide whether to encourage or discourage the user
+
+
+AGENT: Hello how may I help you?
+
+USER: I need you to help me make a big decision, i'm not good with these things.
+
+AGENT: I can help you decide whether you should make that decision. Can you give me some more info?
+
+USER: There's a party tomorrow night and I want to know if I should go or not.
+
+AGENT: Alright. At what time is the party?
+
+USER: It starts at 8 pm.
+
+AGENT: And you have transportation to make it there? Sounds like it would be fun.
+
+USER: I do have transportation there but I tend to get hammered at parties and can't drive home.
+
+X AGENT: In that case, I'd suggest getting a ride to the party or just not going at all if you cannot do this.
+
+USER: What's a party without getting drunk? Guess I shouldn't go then. Thanks for helping me make this decision.
+
+AGENT: Anytime. Glad I could help.

@@ -1,0 +1,24 @@
+Tell the user that the water park will close on September 15th
+
+
+AGENT: Hello how may I help you?
+
+USER: help me check on a water park
+
+AGENT: ok, which water park?
+
+USER: this if for Aqua Water Park
+
+AGENT: what do you need to know?
+
+USER: are they still open in September/ ?
+
+X AGENT: it closes september 15th
+
+USER: just that one day?
+
+AGENT: that is when it closes for the season. it will reopen the following april 15th
+
+USER: great now i can plan my vacation
+
+AGENT: woohoo!!
